@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.uninet.applinktest",
+    "sha256_cert_fingerprints":
+    ["48:C1:CE:A4:18:75:1C:F4:6C:FB:A4:77:A1:97:24:AA:C1:3F:7E:70:2B:9F:1E:F6:A9:0C:46:62:56:4E:91:59"]
+  }
+}]
